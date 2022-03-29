@@ -136,13 +136,12 @@ function so__Chan__cuoiCung(a) {
 /*----------------------------------------------------------------------*/
                         //Question 06:
 /*----------------------------------------------------------------------*/ 
-document.getElementById("btn__Question__07").onclick = function () {
+document.getElementById("btn__Question__06").onclick = function () {
     var viTri__a = +document.getElementById("viTri__Candoi__a").value;
     var viTri__b = +document.getElementById("viTri__Duocdoi__b").value;
 
     var giaTri__a;
     var giaTri__b;
-    var giaTri__c;
 
     //Lôi vị trí ra luôn;
 
